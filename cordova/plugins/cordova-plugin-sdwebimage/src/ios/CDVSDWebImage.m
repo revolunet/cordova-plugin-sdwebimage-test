@@ -30,9 +30,6 @@
     {
       if (image && finished)
       {
-        NSDate *methodFinish = [NSDate date];
-        NSTimeInterval executionTime = [methodFinish timeIntervalSinceDate:start];
-
         // b64 handling
         // NSString *imageData = UIImageJPEGRepresentation(image, 1.0);
         // [res respondWithData:imageData mimeType:@"image/jpeg"];
