@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-sdwebimage-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julien Bouquillon <julien@revolunet.com> (http://twitter.com/revolunet)",
+  "license": "MIT",
+  "devDependencies": {
+    "plist": "1.1.0"
+  }
+}

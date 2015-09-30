@@ -1,0 +1,1 @@
+../../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/UIView+WebCacheOperation.h
