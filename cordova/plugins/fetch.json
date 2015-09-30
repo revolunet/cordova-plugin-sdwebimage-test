@@ -9,8 +9,8 @@
     },
     "cordova-plugin-sdwebimage": {
         "source": {
-            "type": "local",
-            "path": "../../cordova-plugin-sdwebimage"
+            "type": "registry",
+            "id": "cordova-plugin-sdwebimage"
         },
         "is_top_level": true,
         "variables": {}

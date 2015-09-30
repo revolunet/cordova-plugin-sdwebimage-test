@@ -38,6 +38,9 @@
           height:auto;
           margin:5px;
         }
+        button {
+          font-size: 20px;
+        }
         </style>
         <title>Hello World</title>
     </head>
@@ -54,8 +57,12 @@
         <button onclick="bench1()">Browser download</button>
         <button onclick="bench2()">SDWebImage proxy</button>
         <button onclick="bench3()">SDWebImage cordova + base64</button>
+        <br<br>
         <button onclick="clearImages()">clear DOM</button>
         <button onclick="clearCache()">clear ALL Caches</button>
+        <button onclick="getCacheInfo()">get cache info</button>
+        <br<br>
+        <button onclick="preoloadImages()">preoloadImages</button>
         <hr>
         <div id="status"></div>
         <hr>

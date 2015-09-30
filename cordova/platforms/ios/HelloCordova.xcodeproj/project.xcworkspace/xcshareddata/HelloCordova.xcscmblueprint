@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0D93B865C467B244E5EABDA025BCCF7E5CEAD113",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9F4FCB2B9998291FFB70D0F9EA3C312C72C6B125" : 0,
+    "0D93B865C467B244E5EABDA025BCCF7E5CEAD113" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AD2BCBE1-C4FD-487E-9CDF-32730CACA526",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9F4FCB2B9998291FFB70D0F9EA3C312C72C6B125" : "cordova-plugin-sdwebimage\/",
+    "0D93B865C467B244E5EABDA025BCCF7E5CEAD113" : "cordova-plugin-sdwebimage-test\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HelloCordova",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "cordova\/platforms\/ios\/HelloCordova.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:revolunet\/cordova-plugin-sdwebimage-test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0D93B865C467B244E5EABDA025BCCF7E5CEAD113"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:revolunet\/cordova-plugin-sdwebimage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F4FCB2B9998291FFB70D0F9EA3C312C72C6B125"
+    }
+  ]
+}

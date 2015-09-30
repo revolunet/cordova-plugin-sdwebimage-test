@@ -10,7 +10,9 @@ Two tests :
 
 Benchmarks made on iPAD Air (end 2013 version)
 
-**TL;DR :** builtin-safari cache is the most performant but SDWebImage gives you more control on the cache management.
+**TL;DR :**
+ - builtin-safari cache is the most performant
+ - SDWebImage gives you more control, and a more persistent disk-cache.
 
 ### SDWebImage
 
@@ -30,5 +32,5 @@ example with a [650k image](http://img0.mxstatic.com/wallpapers/232ae79ed2a5532d
 | config | First download |  Restore cache |  Re-display |
 |-------|----------|--------|-------|
 | UiWebView  | 750ms | 350ms | 10ms |
-| SDWebImage+WebViewProxy | 750ms (`SDImageCacheTypeNone`)| 350ms  (`SDImageCacheTypeDisk`)| 150ms (`SDImageCacheTypeMemory`) |
-| SDWebImage+cordoca base64 | 1200ms (`SDImageCacheTypeNone`)| 800ms  (`SDImageCacheTypeDisk`)| 500ms (`SDImageCacheTypeMemory`) |
+| SDWebImage+WebViewProxy | 750ms (`SDImageCacheTypeNone`)| 350ms  (`SDImageCacheTypeDisk`)| 150ms (`SDImageCacheTypeMemory`) or 10ms (with force safari cache) |
+| SDWebImage+cordova base64 | 1200ms (`SDImageCacheTypeNone`)| 800ms  (`SDImageCacheTypeDisk`)| 500ms (`SDImageCacheTypeMemory`) |

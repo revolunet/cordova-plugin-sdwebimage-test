@@ -16,9 +16,6 @@
     </feature>
     <feature name="CDVSDWebImage">
         <param name="ios-package" value="CDVSDWebImage" />
-    </feature>
-    <feature name="CDVSDWebImage">
-        <param name="ios-package" value="CDVSDWebImage" />
         <param name="onload" value="true" />
     </feature>
     <allow-intent href="itms:*" />

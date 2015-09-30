@@ -39,22 +39,22 @@
 		7E7966E61810823500FA85AD /* icon-small.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DC1810823500FA85AD /* icon-small.png */; };
 		7E7966E71810823500FA85AD /* icon-small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DD1810823500FA85AD /* icon-small@2x.png */; };
 		D4A0D8761607E02300AEF8BB /* Default-568h@2x~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = D4A0D8751607E02300AEF8BB /* Default-568h@2x~iphone.png */; };
-		70291D7CDE2248688AAC23B0 /* CDVSDWebImage.m in Sources */ = {isa = PBXBuildFile; fileRef = E8BAC475E5434D7F81BAF089 /* CDVSDWebImage.m */; };
-		3D0A11F2D8674DEEAF2D4F0F /* WebViewProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 027D3AA6D0D2477BAB1066A7 /* WebViewProxy.m */; };
-		7512AE841C77453FA7BB1403 /* NSData+ImageContentType.m in Sources */ = {isa = PBXBuildFile; fileRef = E7707D03E49F4247BECE8986 /* NSData+ImageContentType.m */; };
-		0708B8FF26EB4410934AB683 /* SDImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 286AF7E75ADF4D449B600E91 /* SDImageCache.m */; };
-		477B8C42802A41698798F951 /* SDWebImageCompat.m in Sources */ = {isa = PBXBuildFile; fileRef = 5F6AA4A415F749BEA17ACC0C /* SDWebImageCompat.m */; };
-		82C7D256824C43DD8FC0A109 /* SDWebImageDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 93360A89075A428BBB495EE5 /* SDWebImageDecoder.m */; };
-		9197C1212483468DBED440A4 /* SDWebImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 719E7164811E4F42A7100EFD /* SDWebImageDownloader.m */; };
-		D1B3F66FEF24401CA5103F63 /* SDWebImageDownloaderOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AEA1B2D121A4564B522D5CA /* SDWebImageDownloaderOperation.m */; };
-		A907B334639A44DDBD3387E8 /* SDWebImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C352C58C6324439AD87491E /* SDWebImageManager.m */; };
-		A46A2CD201BE4D99B04F4B17 /* SDWebImagePrefetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 48AC05535369473E95B88F9F /* SDWebImagePrefetcher.m */; };
-		EFDAD97A7265439CB8888C6F /* UIImage+GIF.m in Sources */ = {isa = PBXBuildFile; fileRef = C255C02E067E412B8190F68A /* UIImage+GIF.m */; };
-		42D4DD7FC05048FEA6455FEE /* UIImage+MultiFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = 62F23472A364461B89C1CD7E /* UIImage+MultiFormat.m */; };
-		E212118ABB804E398C5D4A71 /* UIImage+WebP.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BA2096B9D6547698A4CF87B /* UIImage+WebP.m */; };
-		E73DC4576EF34C0DB28B8E07 /* UIImageView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = DD6E0BF8D5FC4868AC576705 /* UIImageView+WebCache.m */; };
-		C5A44FD94D304F7F87B9C50E /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 08DE0524BAFD45488B8C773C /* UIView+WebCacheOperation.m */; };
-		254550EB408D49A998D60CA4 /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EE5C439696B8422C8787C4DD /* ImageIO.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		6BD4F116F3E54CD992DFD4FF /* CDVSDWebImage.m in Sources */ = {isa = PBXBuildFile; fileRef = D08C6CA988024F1DA2B735C2 /* CDVSDWebImage.m */; };
+		648ED226EA2F4E9E8A321DF7 /* WebViewProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = A549D138C9074D1A8A81A225 /* WebViewProxy.m */; };
+		2A3E4C6034864A298D1FED67 /* NSData+ImageContentType.m in Sources */ = {isa = PBXBuildFile; fileRef = 18440284E7DB45FE92AF1FFC /* NSData+ImageContentType.m */; };
+		72E296B1FD8A4631982511F7 /* SDImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = A0C7AC164EA94F01816CF1E1 /* SDImageCache.m */; };
+		1DD20D1062164364A748A92E /* SDWebImageCompat.m in Sources */ = {isa = PBXBuildFile; fileRef = 39600291DEAE4F9088327A09 /* SDWebImageCompat.m */; };
+		A319FB8A391A46FB9C1B46E6 /* SDWebImageDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = D3FBD0CC968B419F83C6FD51 /* SDWebImageDecoder.m */; };
+		FE7CB016C94C44F3AE881F99 /* SDWebImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = A2BE1B4A889B410DB0662DE7 /* SDWebImageDownloader.m */; };
+		7D9220252D2A48CCA92E7642 /* SDWebImageDownloaderOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 6910D5C395BF43E4BC19D820 /* SDWebImageDownloaderOperation.m */; };
+		36878A16202B4C02B8ACC430 /* SDWebImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = EEE45AB1BEF44048B2FFC1DA /* SDWebImageManager.m */; };
+		ACB93E12C97146C9AC3C9368 /* SDWebImagePrefetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 89574F0CF94243949CB6673A /* SDWebImagePrefetcher.m */; };
+		BF73E68F212141E68FFEBA1E /* UIImage+GIF.m in Sources */ = {isa = PBXBuildFile; fileRef = 81CB784BF0934F6983E78F05 /* UIImage+GIF.m */; };
+		7BB07C54E57540FA832FFB94 /* UIImage+MultiFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = C69203170CB245BDA0B32A3B /* UIImage+MultiFormat.m */; };
+		E50F1C50AA0C44079AA67352 /* UIImage+WebP.m in Sources */ = {isa = PBXBuildFile; fileRef = 0958CBB48BA14B39AA1AEBC4 /* UIImage+WebP.m */; };
+		619B48383EB24DB59B67B9C9 /* UIImageView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE55E61FEA64768805FDE12 /* UIImageView+WebCache.m */; };
+		F172022DC8FE44D09E2E674A /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = ED312153B0E44EFFB8F4F417 /* UIView+WebCacheOperation.m */; };
+		8352D633991C49A09967E34E /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7D2CEBF704E463E9F31DB41 /* ImageIO.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -120,38 +120,38 @@
 		EB87FDF31871DA8E0020F90C /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; name = www; path = ../../www; sourceTree = "<group>"; };
 		EB87FDF41871DAF40020F90C /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = ../../config.xml; sourceTree = "<group>"; };
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = "HelloCordova/config.xml"; sourceTree = "<group>"; };
-		E8BAC475E5434D7F81BAF089 /* CDVSDWebImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVSDWebImage.m"; path = "../../../../../../cordova-plugin-sdwebimage/src/ios/CDVSDWebImage.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		027D3AA6D0D2477BAB1066A7 /* WebViewProxy.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "WebViewProxy.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/WebViewProxy/WebViewProxy.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		E7707D03E49F4247BECE8986 /* NSData+ImageContentType.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "NSData+ImageContentType.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/NSData+ImageContentType.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		286AF7E75ADF4D449B600E91 /* SDImageCache.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDImageCache.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDImageCache.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		5F6AA4A415F749BEA17ACC0C /* SDWebImageCompat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImageCompat.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImageCompat.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		93360A89075A428BBB495EE5 /* SDWebImageDecoder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImageDecoder.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImageDecoder.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		719E7164811E4F42A7100EFD /* SDWebImageDownloader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImageDownloader.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImageDownloader.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		0AEA1B2D121A4564B522D5CA /* SDWebImageDownloaderOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImageDownloaderOperation.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImageDownloaderOperation.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		2C352C58C6324439AD87491E /* SDWebImageManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImageManager.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImageManager.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		48AC05535369473E95B88F9F /* SDWebImagePrefetcher.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImagePrefetcher.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImagePrefetcher.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		C255C02E067E412B8190F68A /* UIImage+GIF.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIImage+GIF.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/UIImage+GIF.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		62F23472A364461B89C1CD7E /* UIImage+MultiFormat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIImage+MultiFormat.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/UIImage+MultiFormat.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		5BA2096B9D6547698A4CF87B /* UIImage+WebP.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIImage+WebP.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/UIImage+WebP.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		DD6E0BF8D5FC4868AC576705 /* UIImageView+WebCache.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+WebCache.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/UIImageView+WebCache.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		08DE0524BAFD45488B8C773C /* UIView+WebCacheOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIView+WebCacheOperation.m"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/UIView+WebCacheOperation.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		414D690B16A041D2B6CBF723 /* CDVSDWebImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVSDWebImage.h"; path = "../../../../../../cordova-plugin-sdwebimage/src/ios/CDVSDWebImage.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		82D1B51710974C96AFF2271B /* WebViewProxy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "WebViewProxy.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/WebViewProxy/WebViewProxy.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		7148D54B94814728A5C03375 /* NSData+ImageContentType.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "NSData+ImageContentType.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/NSData+ImageContentType.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		27A366EBB23F4F9E8D074B1E /* SDImageCache.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDImageCache.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDImageCache.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		2B242474E4D944179946D324 /* SDWebImageCompat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageCompat.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImageCompat.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		D2DC8C40D0DB4C99B95D8566 /* SDWebImageDecoder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageDecoder.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImageDecoder.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		4FF0740AD7B9483DB6B35AFE /* SDWebImageDownloader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageDownloader.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImageDownloader.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		FC494B70369A4BE5A40FE588 /* SDWebImageDownloaderOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageDownloaderOperation.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImageDownloaderOperation.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		BDF3C1244E814E9D96E8C3DA /* SDWebImageManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageManager.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImageManager.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		00211B0B642844E3983EBE04 /* SDWebImageOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageOperation.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImageOperation.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		C1B57D6F416C4A5B9E06D501 /* SDWebImagePrefetcher.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImagePrefetcher.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/SDWebImagePrefetcher.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		EDACCA9C6A0848559FBF10CE /* UIImage+GIF.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIImage+GIF.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/UIImage+GIF.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		C3AEAA4D722D49F28DD78381 /* UIImage+MultiFormat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIImage+MultiFormat.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/UIImage+MultiFormat.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		96455EB5616446C2A24E4B5A /* UIImage+WebP.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIImage+WebP.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/UIImage+WebP.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		2EB0FAE461DC453785B442CF /* UIImageView+WebCache.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIImageView+WebCache.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/UIImageView+WebCache.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		214CFF77601B4F2EB8CD8DE5 /* UIView+WebCacheOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIView+WebCacheOperation.h"; path = "../../../../../../cordova-plugin-sdwebimage/libs/ios/SDWebImage/UIView+WebCacheOperation.h"; sourceTree = "<group>"; fileEncoding = 4; };
-		EE5C439696B8422C8787C4DD /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "ImageIO.framework"; path = "System/Library/Frameworks/ImageIO.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
+		D08C6CA988024F1DA2B735C2 /* CDVSDWebImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVSDWebImage.m"; path = "cordova-plugin-sdwebimage/CDVSDWebImage.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		A549D138C9074D1A8A81A225 /* WebViewProxy.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "WebViewProxy.m"; path = "cordova-plugin-sdwebimage/WebViewProxy.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		18440284E7DB45FE92AF1FFC /* NSData+ImageContentType.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "NSData+ImageContentType.m"; path = "cordova-plugin-sdwebimage/NSData+ImageContentType.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		A0C7AC164EA94F01816CF1E1 /* SDImageCache.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDImageCache.m"; path = "cordova-plugin-sdwebimage/SDImageCache.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		39600291DEAE4F9088327A09 /* SDWebImageCompat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImageCompat.m"; path = "cordova-plugin-sdwebimage/SDWebImageCompat.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		D3FBD0CC968B419F83C6FD51 /* SDWebImageDecoder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImageDecoder.m"; path = "cordova-plugin-sdwebimage/SDWebImageDecoder.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		A2BE1B4A889B410DB0662DE7 /* SDWebImageDownloader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImageDownloader.m"; path = "cordova-plugin-sdwebimage/SDWebImageDownloader.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		6910D5C395BF43E4BC19D820 /* SDWebImageDownloaderOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImageDownloaderOperation.m"; path = "cordova-plugin-sdwebimage/SDWebImageDownloaderOperation.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		EEE45AB1BEF44048B2FFC1DA /* SDWebImageManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImageManager.m"; path = "cordova-plugin-sdwebimage/SDWebImageManager.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		89574F0CF94243949CB6673A /* SDWebImagePrefetcher.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "SDWebImagePrefetcher.m"; path = "cordova-plugin-sdwebimage/SDWebImagePrefetcher.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		81CB784BF0934F6983E78F05 /* UIImage+GIF.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIImage+GIF.m"; path = "cordova-plugin-sdwebimage/UIImage+GIF.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		C69203170CB245BDA0B32A3B /* UIImage+MultiFormat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIImage+MultiFormat.m"; path = "cordova-plugin-sdwebimage/UIImage+MultiFormat.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		0958CBB48BA14B39AA1AEBC4 /* UIImage+WebP.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIImage+WebP.m"; path = "cordova-plugin-sdwebimage/UIImage+WebP.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		8EE55E61FEA64768805FDE12 /* UIImageView+WebCache.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+WebCache.m"; path = "cordova-plugin-sdwebimage/UIImageView+WebCache.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		ED312153B0E44EFFB8F4F417 /* UIView+WebCacheOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "UIView+WebCacheOperation.m"; path = "cordova-plugin-sdwebimage/UIView+WebCacheOperation.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		6A840F6C7DA845BAB1A35791 /* CDVSDWebImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVSDWebImage.h"; path = "cordova-plugin-sdwebimage/CDVSDWebImage.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		EEC4F9AE8E9A4933B3D1291D /* WebViewProxy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "WebViewProxy.h"; path = "cordova-plugin-sdwebimage/WebViewProxy.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		07A5C5075900444DB1855D34 /* NSData+ImageContentType.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "NSData+ImageContentType.h"; path = "cordova-plugin-sdwebimage/NSData+ImageContentType.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		B94A354284644F74BEAAB854 /* SDImageCache.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDImageCache.h"; path = "cordova-plugin-sdwebimage/SDImageCache.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		789698E0629A41A9BC345FB1 /* SDWebImageCompat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageCompat.h"; path = "cordova-plugin-sdwebimage/SDWebImageCompat.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		2A24A32D46BA40F1B9BA49A3 /* SDWebImageDecoder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageDecoder.h"; path = "cordova-plugin-sdwebimage/SDWebImageDecoder.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		A4097659B3A74842839ACACA /* SDWebImageDownloader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageDownloader.h"; path = "cordova-plugin-sdwebimage/SDWebImageDownloader.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		A6E400B194744B209A75F9DB /* SDWebImageDownloaderOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageDownloaderOperation.h"; path = "cordova-plugin-sdwebimage/SDWebImageDownloaderOperation.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		2379D43450534DFEA29C8A84 /* SDWebImageManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageManager.h"; path = "cordova-plugin-sdwebimage/SDWebImageManager.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		7042332443F348B88961137F /* SDWebImageOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImageOperation.h"; path = "cordova-plugin-sdwebimage/SDWebImageOperation.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		851C789C38EC4A4EAD76C153 /* SDWebImagePrefetcher.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "SDWebImagePrefetcher.h"; path = "cordova-plugin-sdwebimage/SDWebImagePrefetcher.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		17FC4E21C6EB4C50A3CF4488 /* UIImage+GIF.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIImage+GIF.h"; path = "cordova-plugin-sdwebimage/UIImage+GIF.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		D8995D252AA84B689EF8A046 /* UIImage+MultiFormat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIImage+MultiFormat.h"; path = "cordova-plugin-sdwebimage/UIImage+MultiFormat.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		EA566C6C7D0049399D7B2C59 /* UIImage+WebP.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIImage+WebP.h"; path = "cordova-plugin-sdwebimage/UIImage+WebP.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		F82E076646EE41F781232E22 /* UIImageView+WebCache.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIImageView+WebCache.h"; path = "cordova-plugin-sdwebimage/UIImageView+WebCache.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		A6EE23DAA3274A35B19880B6 /* UIView+WebCacheOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "UIView+WebCacheOperation.h"; path = "cordova-plugin-sdwebimage/UIView+WebCacheOperation.h"; sourceTree = "<group>"; fileEncoding = 4; };
+		A7D2CEBF704E463E9F31DB41 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "ImageIO.framework"; path = "System/Library/Frameworks/ImageIO.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,7 +163,7 @@
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
 				305D5FD1115AB8F900A74A75 /* MobileCoreServices.framework in Frameworks */,
-				254550EB408D49A998D60CA4 /* ImageIO.framework in Frameworks */,
+				8352D633991C49A09967E34E /* ImageIO.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,7 +236,7 @@
 				5B1594DC16A7569C00FEF299 /* AssetsLibrary.framework */,
 				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
 				305D5FD0115AB8F900A74A75 /* MobileCoreServices.framework */,
-				EE5C439696B8422C8787C4DD /* ImageIO.framework */,
+				A7D2CEBF704E463E9F31DB41 /* ImageIO.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -252,37 +252,37 @@
 		307C750510C5A3420062BCA9 /* Plugins */ = {
 			isa = PBXGroup;
 			children = (
-				E8BAC475E5434D7F81BAF089 /* CDVSDWebImage.m */,
-				027D3AA6D0D2477BAB1066A7 /* WebViewProxy.m */,
-				E7707D03E49F4247BECE8986 /* NSData+ImageContentType.m */,
-				286AF7E75ADF4D449B600E91 /* SDImageCache.m */,
-				5F6AA4A415F749BEA17ACC0C /* SDWebImageCompat.m */,
-				93360A89075A428BBB495EE5 /* SDWebImageDecoder.m */,
-				719E7164811E4F42A7100EFD /* SDWebImageDownloader.m */,
-				0AEA1B2D121A4564B522D5CA /* SDWebImageDownloaderOperation.m */,
-				2C352C58C6324439AD87491E /* SDWebImageManager.m */,
-				48AC05535369473E95B88F9F /* SDWebImagePrefetcher.m */,
-				C255C02E067E412B8190F68A /* UIImage+GIF.m */,
-				62F23472A364461B89C1CD7E /* UIImage+MultiFormat.m */,
-				5BA2096B9D6547698A4CF87B /* UIImage+WebP.m */,
-				DD6E0BF8D5FC4868AC576705 /* UIImageView+WebCache.m */,
-				08DE0524BAFD45488B8C773C /* UIView+WebCacheOperation.m */,
-				414D690B16A041D2B6CBF723 /* CDVSDWebImage.h */,
-				82D1B51710974C96AFF2271B /* WebViewProxy.h */,
-				7148D54B94814728A5C03375 /* NSData+ImageContentType.h */,
-				27A366EBB23F4F9E8D074B1E /* SDImageCache.h */,
-				2B242474E4D944179946D324 /* SDWebImageCompat.h */,
-				D2DC8C40D0DB4C99B95D8566 /* SDWebImageDecoder.h */,
-				4FF0740AD7B9483DB6B35AFE /* SDWebImageDownloader.h */,
-				FC494B70369A4BE5A40FE588 /* SDWebImageDownloaderOperation.h */,
-				BDF3C1244E814E9D96E8C3DA /* SDWebImageManager.h */,
-				00211B0B642844E3983EBE04 /* SDWebImageOperation.h */,
-				C1B57D6F416C4A5B9E06D501 /* SDWebImagePrefetcher.h */,
-				EDACCA9C6A0848559FBF10CE /* UIImage+GIF.h */,
-				C3AEAA4D722D49F28DD78381 /* UIImage+MultiFormat.h */,
-				96455EB5616446C2A24E4B5A /* UIImage+WebP.h */,
-				2EB0FAE461DC453785B442CF /* UIImageView+WebCache.h */,
-				214CFF77601B4F2EB8CD8DE5 /* UIView+WebCacheOperation.h */,
+				D08C6CA988024F1DA2B735C2 /* CDVSDWebImage.m */,
+				A549D138C9074D1A8A81A225 /* WebViewProxy.m */,
+				18440284E7DB45FE92AF1FFC /* NSData+ImageContentType.m */,
+				A0C7AC164EA94F01816CF1E1 /* SDImageCache.m */,
+				39600291DEAE4F9088327A09 /* SDWebImageCompat.m */,
+				D3FBD0CC968B419F83C6FD51 /* SDWebImageDecoder.m */,
+				A2BE1B4A889B410DB0662DE7 /* SDWebImageDownloader.m */,
+				6910D5C395BF43E4BC19D820 /* SDWebImageDownloaderOperation.m */,
+				EEE45AB1BEF44048B2FFC1DA /* SDWebImageManager.m */,
+				89574F0CF94243949CB6673A /* SDWebImagePrefetcher.m */,
+				81CB784BF0934F6983E78F05 /* UIImage+GIF.m */,
+				C69203170CB245BDA0B32A3B /* UIImage+MultiFormat.m */,
+				0958CBB48BA14B39AA1AEBC4 /* UIImage+WebP.m */,
+				8EE55E61FEA64768805FDE12 /* UIImageView+WebCache.m */,
+				ED312153B0E44EFFB8F4F417 /* UIView+WebCacheOperation.m */,
+				6A840F6C7DA845BAB1A35791 /* CDVSDWebImage.h */,
+				EEC4F9AE8E9A4933B3D1291D /* WebViewProxy.h */,
+				07A5C5075900444DB1855D34 /* NSData+ImageContentType.h */,
+				B94A354284644F74BEAAB854 /* SDImageCache.h */,
+				789698E0629A41A9BC345FB1 /* SDWebImageCompat.h */,
+				2A24A32D46BA40F1B9BA49A3 /* SDWebImageDecoder.h */,
+				A4097659B3A74842839ACACA /* SDWebImageDownloader.h */,
+				A6E400B194744B209A75F9DB /* SDWebImageDownloaderOperation.h */,
+				2379D43450534DFEA29C8A84 /* SDWebImageManager.h */,
+				7042332443F348B88961137F /* SDWebImageOperation.h */,
+				851C789C38EC4A4EAD76C153 /* SDWebImagePrefetcher.h */,
+				17FC4E21C6EB4C50A3CF4488 /* UIImage+GIF.h */,
+				D8995D252AA84B689EF8A046 /* UIImage+MultiFormat.h */,
+				EA566C6C7D0049399D7B2C59 /* UIImage+WebP.h */,
+				F82E076646EE41F781232E22 /* UIImageView+WebCache.h */,
+				A6EE23DAA3274A35B19880B6 /* UIView+WebCacheOperation.h */,
 			);
 			name = Plugins;
 			path = "HelloCordova/Plugins";
@@ -467,21 +467,21 @@
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
-				70291D7CDE2248688AAC23B0 /* CDVSDWebImage.m in Sources */,
-				3D0A11F2D8674DEEAF2D4F0F /* WebViewProxy.m in Sources */,
-				7512AE841C77453FA7BB1403 /* NSData+ImageContentType.m in Sources */,
-				0708B8FF26EB4410934AB683 /* SDImageCache.m in Sources */,
-				477B8C42802A41698798F951 /* SDWebImageCompat.m in Sources */,
-				82C7D256824C43DD8FC0A109 /* SDWebImageDecoder.m in Sources */,
-				9197C1212483468DBED440A4 /* SDWebImageDownloader.m in Sources */,
-				D1B3F66FEF24401CA5103F63 /* SDWebImageDownloaderOperation.m in Sources */,
-				A907B334639A44DDBD3387E8 /* SDWebImageManager.m in Sources */,
-				A46A2CD201BE4D99B04F4B17 /* SDWebImagePrefetcher.m in Sources */,
-				EFDAD97A7265439CB8888C6F /* UIImage+GIF.m in Sources */,
-				42D4DD7FC05048FEA6455FEE /* UIImage+MultiFormat.m in Sources */,
-				E212118ABB804E398C5D4A71 /* UIImage+WebP.m in Sources */,
-				E73DC4576EF34C0DB28B8E07 /* UIImageView+WebCache.m in Sources */,
-				C5A44FD94D304F7F87B9C50E /* UIView+WebCacheOperation.m in Sources */,
+				6BD4F116F3E54CD992DFD4FF /* CDVSDWebImage.m in Sources */,
+				648ED226EA2F4E9E8A321DF7 /* WebViewProxy.m in Sources */,
+				2A3E4C6034864A298D1FED67 /* NSData+ImageContentType.m in Sources */,
+				72E296B1FD8A4631982511F7 /* SDImageCache.m in Sources */,
+				1DD20D1062164364A748A92E /* SDWebImageCompat.m in Sources */,
+				A319FB8A391A46FB9C1B46E6 /* SDWebImageDecoder.m in Sources */,
+				FE7CB016C94C44F3AE881F99 /* SDWebImageDownloader.m in Sources */,
+				7D9220252D2A48CCA92E7642 /* SDWebImageDownloaderOperation.m in Sources */,
+				36878A16202B4C02B8ACC430 /* SDWebImageManager.m in Sources */,
+				ACB93E12C97146C9AC3C9368 /* SDWebImagePrefetcher.m in Sources */,
+				BF73E68F212141E68FFEBA1E /* UIImage+GIF.m in Sources */,
+				7BB07C54E57540FA832FFB94 /* UIImage+MultiFormat.m in Sources */,
+				E50F1C50AA0C44079AA67352 /* UIImage+WebP.m in Sources */,
+				619B48383EB24DB59B67B9C9 /* UIImageView+WebCache.m in Sources */,
+				F172022DC8FE44D09E2E674A /* UIView+WebCacheOperation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
