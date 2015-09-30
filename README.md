@@ -1,7 +1,9 @@
 
 # Cordova UIWebView + SDWebImage + WebViewProxy
 
-Experiment with Cordova UIWebView + [SDWebImage](https://github.com/rs/SDWebImage) + [WebViewProxy](https://github.com/marcuswestin/WebViewProxy)
+Experimental project with Cordova UIWebView + [SDWebImage](https://github.com/rs/SDWebImage) + [WebViewProxy](https://github.com/marcuswestin/WebViewProxy)
+
+using this plugin : https://github.com/revolunet/cordova-plugin-sdwebimage
 
 Two tests :
 
